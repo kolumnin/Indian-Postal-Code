@@ -31,4 +31,4 @@ This program is a web application that allows users to search for Indian postal 
 To See How It Works- https://akhilathuluri.github.io/Indian-Postal-Code/
 
 ![image](https://user-images.githubusercontent.com/89147384/226204573-bd735a85-b843-4097-9551-08fbc4b8b499.png)
-The residential areas]
+[The residential areas]()
